@@ -28,7 +28,7 @@ const Card = (props) => {
         <p>{props.location}</p>
       </div>
       <div className="apply">
-        <button>Applay Now</button>
+        <button>Apply Now</button>
       </div>
     </div>
     </div>
